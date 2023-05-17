@@ -1,3 +1,3 @@
 .env
-./Implementation/11.rar
-Scraping/*.xlsx
+*.xlsx
+*.rar
